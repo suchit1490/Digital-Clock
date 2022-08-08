@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('img2.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: orbitron, sans-serif;
+    font-weight: 0;
+}
+
+h1{
+    font-size: 60px;
+    padding-left: 360px;
+    padding-top: 180px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+span{
+    color: white;
+    width: 700px;
+    text-shadow: 1px 1px 2px white;
+    
+}
